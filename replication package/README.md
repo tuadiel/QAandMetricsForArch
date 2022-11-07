@@ -11,7 +11,7 @@ Specifically, this paper aims at surveying the state of the art to identify metr
 In this way, researchers and practitioners can easily retrieve the metrics that are appropriate to their specific needs.
 
 **Supplementary Material** (Replication package):
-- [1 - Initial List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/1_ecsa_2022_supp_initial.ods) (Returned by searching the query)
-- [2 - Screened List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/2_ecsa_2022_supp_screening.ods) (After screening)
-- [3 - Collected List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/3_ecsa_2022_supp_collected_papers.ods) (After merging and removal of duplicates)
-- [4 - Final List of Papers](https://anonymous.4open.science/r/ecsa_2022_architecture_quality-F1B6/4_ecsa_2022_supp_extracted_papers.ods) (After criteria application)
+- [1 - Initial List of Papers](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/replication%20package/1_icsa_2023_supp_initial.ods) (Returned by searching the query)
+- [2 - Screened List of Papers](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/replication%20package/2_icsa_2023_supp_screening.ods) (After screening)
+- [3 - Collected List of Papers](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/replication%20package/3_icsa_2023_supp_collected_papers.ods) (After merging and removal of duplicates)
+- [4 - Final List of Papers](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/replication%20package/4_icsa_2023_supp_extracted_papers.ods) (After criteria application)
