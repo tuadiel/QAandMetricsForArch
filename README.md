@@ -39,3 +39,9 @@ To run the plugins you have to install eclipse and the xtext plugin from eclipse
 ## Download the files in plugins folder
 
 Download the files in plugins folder and import on eclipse via "Existing ecplipse project"
+
+## Run Configuration file 
+
+Run configuration file it.gssi.cs.archqualitydef, eclipse will open a new instance
+
+
