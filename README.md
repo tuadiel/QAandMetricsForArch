@@ -36,4 +36,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 To run the plugins you have to install eclipse and the xtext plugin from eclipse marketplace
 
-## 
+## Download the files in plugins folder
+
+Download the files in plugins folder and import on eclipse
