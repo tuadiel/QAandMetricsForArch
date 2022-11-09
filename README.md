@@ -38,4 +38,4 @@ To run the plugins you have to install eclipse and the xtext plugin from eclipse
 
 ## Download the files in plugins folder
 
-Download the files in plugins folder and import on eclipse
+Download the files in plugins folder and import on eclipse via "Existing ecplipse project"
