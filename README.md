@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
+#Installing web app with Angular
+
+These are the command to install the Angular Web Application
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -26,6 +30,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Installing the plugins
+# Installing the plugins for adding metrics or quality attributes
 
-To run the plugins you have to install eclipse with xtext
+## Installing Eclipse with xtext
+
+To run the plugins you have to install eclipse and the xtext plugin from eclipse marketplace
+
+## 
