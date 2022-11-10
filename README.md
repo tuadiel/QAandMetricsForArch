@@ -38,7 +38,7 @@ Please refer to this link https://www.eclipse.org/Xtext/download.html for  more 
 
 * Once everything is installed correctly, go to your browser then point to the address of your web-server and the generated graph similar to this one will be shown. 
 
-<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/5.png" width="300" height="300">
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/5.png" width="500" height="400">
 
 
 ## How to contibute to this Framework
