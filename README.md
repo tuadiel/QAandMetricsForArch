@@ -24,6 +24,8 @@ Please refer to this link https://www.eclipse.org/Xtext/download.html for  more 
 
 * Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
 
+![This is an image](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/1.png)
+
 * In another Eclipse window create a new project, specify a project name and specify the location where you want to save your project. Untick “User default Location” and set the path pointing to the path of your web server where your files are located. In this way everything you edit, it will be automatically updated on your web browser.
 
 * Download the quality definition file called "repo.archquality" which is located in the “catalog” folder and paste it in the project you have created. The quality definition file is associated with the .archquality extension, which will make sure that the Eclipse editor recognizes the content of the model instantiation. By using the provided editor, all the developed features will be available, e.g., syntax highlighting, code completion, error quick fixes, etc. as can be seen in this screenshot.
