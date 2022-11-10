@@ -1,4 +1,4 @@
-# QualityMetricsInSoftwareArchitecture
+# Metrics And Quality Attributes In Software Architecture
 
 To put into practice the results we found during our research and keep the results up-to-date we propose a Framework which generates informative and aggregated web views of the metrics, quality attributes, quality characteristics, and their relationships. The proposed framework has been implemented with MDE techniques and it is based on a metamodel which allows us to define the quality the quality characteristics, quality attributes and metrics to measure the quality attributes.
 
