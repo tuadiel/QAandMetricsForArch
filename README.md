@@ -24,8 +24,7 @@ Please refer to this link https://www.eclipse.org/Xtext/download.html for  more 
 
 * Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
 
-<img src="[https://your-image-url.type](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/1.png)" width="250" height="250">
-
+<img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/1.png" width="250" height="250">
 ![This is an image](https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/1.png =250x250)
 
 * In another Eclipse window create a new project, specify a project name and specify the location where you want to save your project. Untick “User default Location” and set the path pointing to the path of your web server where your files are located. In this way everything you edit, it will be automatically updated on your web browser.
