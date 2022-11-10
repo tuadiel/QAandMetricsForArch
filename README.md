@@ -30,18 +30,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-# Installing the plugins for adding metrics or quality attributes
+# Model driven engineering plugins
 
-## Installing Eclipse with xtext
+To put into practice the results we found during our research and keep the results up-to-date we propose a Framework which generates informative and aggregated web views of the metrics, quality attributes, quality characteristics, and their relationships. The proposed framework has been implemented with MDE techniques and it is based on a metamodel which allows us to define the quality the quality characteristics, quality attributes and metrics to measure the quality attributes.
 
-To run the plugins you have to install eclipse and the xtext plugin from eclipse marketplace
 
-## Download the files in plugins folder
 
-Download the files in plugins folder and import on eclipse via "Existing ecplipse project"
+Based on this framework we have implemented a Domain Specific Language (DSL) with xText allowing the textual definition for our quality repository. Indeed, this DSL is based on a grammar (derived from the metamodel), allowing software architects, practitioners, and researchers to define quality aspects and their relationships. Moreover, we have integrated rules inspired by the Bibtex grammar {https://slebok.github.io/zoo/markup/textual/bibtex/bibtex/hillairet/extracted/index.html} to allow contributors to directly work with bibtex entries in the DSL, to define research contributions. By using this DSL, contributors can define their own quality attributes and metrics and/or refine those provided by us (we call to the file containing these definitions as quality definition file).
 
-## Run Configuration file 
+## Step by step guide to install the DSL
 
-Run configuration file it.gssi.cs.archqualitydef, eclipse will open a new instance
+### Pre-requisite:
 
+-Download and install Eclipse IDE from https://www.eclipse.org/downloads/ (if you already have an Eclipse IDE installed on your machine  skip this step)
+
+-Install and Configure a web-server (e.g., MAMP). This web server will allows you to get a visual preview of the generated graph which is composed of quality characteristics, attributes and metrics.
+
+### Steps:
+-Download and install Eclipse IDE from https://www.eclipse.org/downloads/ (if you already have an Eclipse IDE installed on your machine  skip this step)
+- https://www.eclipse.org/Xtext/download.html
+	 -Eclipse Help > Eclipse Marketplace
+	 -Install the plugin “Eclipse xText"
+	 -Restart Eclipse
+-Download the plugins files located in the plugins folder and import them into eclipse.
+-Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
 
