@@ -1,9 +1,5 @@
 # QualityMetricsInSoftwareArchitecture
 
-
-
-## Model driven engineering plugins
-
 To put into practice the results we found during our research and keep the results up-to-date we propose a Framework which generates informative and aggregated web views of the metrics, quality attributes, quality characteristics, and their relationships. The proposed framework has been implemented with MDE techniques and it is based on a metamodel which allows us to define the quality the quality characteristics, quality attributes and metrics to measure the quality attributes.
 
 
@@ -21,9 +17,9 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
 
 ### Steps:
 * Download and install the xText plugin install the xtext plug-in into a running Eclipse.
-	 *Step 1) Eclipse Help > Eclipse Marketplace
-	 *Step 2) Install the plugin “Eclipse xText"
-	 *Step 3) Restart Eclipse
+  *Step 1) Eclipse Help > Eclipse Marketplace
+  *Step 2) Install the plugin “Eclipse xText"
+  *Step 3) Restart Eclipse
 Please refer to this link https://www.eclipse.org/Xtext/download.html for  more instructions.
 
 * Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
