@@ -20,6 +20,8 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
   * Step 1) Eclipse Help > Eclipse Marketplace
   * Step 2) Install the plugin “Eclipse xText"
   * Step 3) Restart Eclipse
+
+
 Please refer to this link https://www.eclipse.org/Xtext/download.html for  more instructions.
 
 * Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
