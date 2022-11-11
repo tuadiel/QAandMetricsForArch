@@ -16,7 +16,7 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
 
 
 ### Steps:
-* Download and install the xText plugin install the xtext plug-in into a running Eclipse.
+*  Download and install the xText plugin into a running Eclipse.
   * Step 1) Eclipse Help > Eclipse Marketplace
   * Step 2) Install the plugin “Eclipse xText"
   * Step 3) Restart Eclipse
