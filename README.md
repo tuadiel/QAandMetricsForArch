@@ -24,7 +24,7 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
 
 Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  more instructions.
 
-* Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
+* Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse instance which means that you will have two Eclipse instancies running).
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/7.png" width="300" height="250">
 
