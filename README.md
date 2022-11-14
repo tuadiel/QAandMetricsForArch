@@ -10,9 +10,9 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
 
 ### Pre-requisite:
 
-* You should have an Eclipse IDE installed on your machine (in case you don’t have it download and install it from https://www.eclipse.org/downloads/ ).
+* You should have an Eclipse IDE installed on your machine (in case you don’t have it download and install it from [Eclipse](https://www.eclipse.org/downloads/) ).
 
-* Install and Configure a web-server (e.g., MAMP). This web server will allows you to get a web views of generated quality characteristics, attributes and metrics which are browsable in the online version.
+* Install and Configure a web-server (e.g., MAMP). This web server allows you to get a web views of generated quality characteristics, attributes and metrics which are browsable in the online version.
 
 
 ### Steps:
@@ -22,7 +22,7 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
   * Step 3) Restart Eclipse
 
 
-Please refer to this link https://www.eclipse.org/Xtext/download.html for  more instructions.
+Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  more instructions.
 
 * Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse window which means that you will have two Eclipse running).
 
