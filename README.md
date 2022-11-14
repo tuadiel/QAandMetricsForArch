@@ -38,7 +38,7 @@ Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  mo
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/3.png" width="300" height="250">
 
 
-* <p align="justify">Download the quality definition file called "repo.archquality" which is located in the “catalog” folder and paste it in the project you have created. The quality definition file is associated with the .archquality extension, which will make sure that the Eclipse editor recognizes the content of the model instantiation. By using the provided editor, all the developed features will be available, e.g., syntax highlighting, code completion, error quick fixes, etc. as can be seen in this screenshot.</p>
+* <p align="justify">Download the quality definition file called "repo.archquality" which is located in the “catalog” folder and paste it into the project you have created. The quality definition file is associated with the .archquality extension, which will make sure that the Eclipse editor recognizes the content of the model instantiation. By using the provided editor, all the developed features will be available, e.g., syntax highlighting, code completion, error quick fixes, etc. as can be seen in this screenshot.</p>
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/4.png" width="300" height="250">
 
