@@ -8,7 +8,7 @@
 
 ## Step by step guide to install the DSL
 
-### Pre-requisite:
+### Pre-requisites:
 
 * You should have an Eclipse IDE installed on your machine (in case you don’t have it download and install it from [Eclipse](https://www.eclipse.org/downloads/) ).
 
@@ -52,7 +52,7 @@ Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  mo
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/5.png" width="500" height="400">
 
 
-## How to contibute to this Framework
+## How to contibute to this framework
 
 <p align="justify">Following the process, a contributor who wants to define new quality attributes and/or metrics or new relationships discovered in his/her studies can create a branch of the repository, even if actually the only file needed is the .archquality definition (up-to-date in the catalog folder). Contributors can then add or edit existing definitions by exploiting the textual syntax. After that, contributor can emit a pull request that will be evaluated by the repository maintainer and in case the provided changes in definitions are legit and supported by the correct linked research contributions, a merge of the .archquality model will be executed.</p> 
 
