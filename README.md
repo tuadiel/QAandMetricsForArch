@@ -16,13 +16,11 @@
 
 
 ### Steps:
-* Download and install the xText plugin into a running Eclipse.
+* Download and install the xText plugin into a running Eclipse (Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  more instructions).
   * Step 1) Eclipse Help > Eclipse Marketplace
   * Step 2) Install the plugin “Eclipse xText"
   * Step 3) Restart Eclipse
 
-
-Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  more instructions.
 
 * <p align="justify">Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse instance which means that you will have two Eclipse instances running).</p>
 
