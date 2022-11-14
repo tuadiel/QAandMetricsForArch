@@ -24,7 +24,7 @@
 
 Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  more instructions.
 
-* <p align="justify">Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse instance which means that you will have two Eclipse instancies running).</p>
+* <p align="justify">Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse instance which means that you will have two Eclipse instances running).</p>
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/7.png" width="300" height="250">
 
