@@ -12,7 +12,7 @@
 
 * You should have an Eclipse IDE installed on your machine (in case you don’t have it download and install it from [Eclipse](https://www.eclipse.org/downloads/) ).
 
-* Install and Configure a web-server (e.g., MAMP). This web server allows you to get a web views of generated quality characteristics, attributes and metrics which are browsable in the online version.
+* <p align="justify">Install and Configure a web-server (e.g., MAMP). This web server allows you to get a web views of generated quality characteristics, attributes and metrics which are browsable in the online version.</p>
 
 
 ### Steps:
@@ -24,7 +24,7 @@
 
 Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  more instructions.
 
-* Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse instance which means that you will have two Eclipse instancies running).
+* <p align="justify">Run the configuration (upon running the configuration Eclipse will automatically open another Eclipse instance which means that you will have two Eclipse instancies running).</p>
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/7.png" width="300" height="250">
 
@@ -32,13 +32,13 @@ Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  mo
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/2.png" width="300" height="250">
 
-* Since we want a visual preview of the results that are browsable in the online version, we need to point the location of our project using the web server's path. Untick “User default Location” and set the path pointing to the path of your web server.
+* <p align="justify">Since we want a visual preview of the results that are browsable in the online version, we need to point the location of our project using the web server's path. Untick “User default Location” and set the path pointing to the path of your web server.</p>
 
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/3.png" width="300" height="250">
 
 
-* Download the quality definition file called "repo.archquality" which is located in the “catalog” folder and paste it in the project you have created. The quality definition file is associated with the .archquality extension, which will make sure that the Eclipse editor recognizes the content of the model instantiation. By using the provided editor, all the developed features will be available, e.g., syntax highlighting, code completion, error quick fixes, etc. as can be seen in this screenshot.
+* <p align="justify">Download the quality definition file called "repo.archquality" which is located in the “catalog” folder and paste it in the project you have created. The quality definition file is associated with the .archquality extension, which will make sure that the Eclipse editor recognizes the content of the model instantiation. By using the provided editor, all the developed features will be available, e.g., syntax highlighting, code completion, error quick fixes, etc. as can be seen in this screenshot.</p>
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/4.png" width="300" height="250">
 
