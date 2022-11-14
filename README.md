@@ -4,7 +4,7 @@
 
 
 
-<p align="justify"> Based on this framework we have implemented a Domain Specific Language (DSL) with xText allowing the textual definition for our quality repository. Indeed, this DSL is based on a grammar (derived from the metamodel), allowing software architects, practitioners, and researchers to define quality aspects and their relationships. Moreover, we have integrated rules inspired by the [Bibtex grammar](https://slebok.github.io/zoo/markup/textual/bibtex/bibtex/hillairet/extracted/index.html) to allow contributors to directly work with bibtex entries in the DSL, to define research contributions. By using this DSL, contributors can define their own quality attributes and metrics and/or refine those provided by us (we call to the file containing these definitions as quality definition file). </p>
+<p align="justify"> Based on this framework we have implemented a Domain Specific Language (DSL) with xText allowing the textual definition for our quality repository. Indeed, this DSL is based on a grammar (derived from the metamodel), allowing software architects, practitioners, and researchers to define quality aspects and their relationships. Moreover, we have integrated rules inspired by the</p> [Bibtex grammar](https://slebok.github.io/zoo/markup/textual/bibtex/bibtex/hillairet/extracted/index.html) <p align="justify">to allow contributors to directly work with bibtex entries in the DSL, to define research contributions. By using this DSL, contributors can define their own quality attributes and metrics and/or refine those provided by us (we call to the file containing these definitions as quality definition file). </p>
 
 ## Step by step guide to install the DSL
 
