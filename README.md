@@ -32,7 +32,7 @@ Please refer to this [link](https://www.eclipse.org/Xtext/download.html) for  mo
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/2.png" width="300" height="250">
 
-* <p align="justify">Since we want a visual preview of the results that are browsable in the online version, we need to point the location of our project using the web server's path. Untick “User default Location” and set the path pointing to the path of your web server.</p>
+* <p align="justify">Since we want a visual preview of the results that are browsable in the online version, we need to point to the location of our project using the web server's path. Untick “User default Location” and set the path pointing to the path of your web server.</p>
 
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/3.png" width="300" height="250">
