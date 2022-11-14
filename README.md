@@ -30,6 +30,10 @@ Please refer to this link https://www.eclipse.org/Xtext/download.html for  more 
 
 * In another Eclipse window create a new project, specify a project name and specify the location where you want to save your project. Untick “User default Location” and set the path pointing to the path of your web server where your files are located. In this way everything you edit, it will be automatically updated on your web browser.
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/2.png" width="300" height="250">
+
+* Since we want a visual preview of the results that are browsable in the online version, we need to point the location of our project using the web server's path. Untick “User default Location” and set the path pointing to the path of your web server.
+
+
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/3.png" width="300" height="250">
 
 
