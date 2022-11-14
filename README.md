@@ -42,6 +42,10 @@ Please refer to this link https://www.eclipse.org/Xtext/download.html for  more 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/4.png" width="300" height="250">
 
 
+* Every time the .archquality is updated, a code generation step is also executed. You will see a "src-gen" folder generated automatically in your project folder.
+
+PHOTO
+
 * Once everything is installed correctly, go to your browser then point to the address of your web-server and the generated graph similar to this one will be shown. 
 
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/5.png" width="500" height="400">
