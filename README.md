@@ -12,11 +12,11 @@ Based on this framework we have implemented a Domain Specific Language (DSL) wit
 
 * You should have an Eclipse IDE installed on your machine (in case you don’t have it download and install it from https://www.eclipse.org/downloads/ ).
 
-* Install and Configure a web-server (e.g., MAMP). This web server will allows you to get a visual preview of the generated graph which is composed of quality characteristics, attributes and metrics.
+* Install and Configure a web-server (e.g., MAMP). This web server will allows you to get a web views of generated quality characteristics, attributes and metrics which are browsable in the online version.
 
 
 ### Steps:
-*  Download and install the xText plugin into a running Eclipse.
+* Download and install the xText plugin into a running Eclipse.
   * Step 1) Eclipse Help > Eclipse Marketplace
   * Step 2) Install the plugin “Eclipse xText"
   * Step 3) Restart Eclipse
