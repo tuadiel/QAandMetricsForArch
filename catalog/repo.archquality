@@ -38,7 +38,8 @@ QualityModel{
   	author={"U. Dayanandan and V. Kalimuthu"},
   	journal={"International Journal of Intelligent Engineering and Systems"},
  	volume={"11"},
- 	year={"2018"}
+ 	year={"2018"},
+ 	note= {Cited by: 7}
 	},
 	@article{perez2014relationships,
   	title={"On the relationships between QoS and software adaptability at the architectural level"},
@@ -46,75 +47,86 @@ QualityModel{
   	journal={"Journal of Systems and Software"},
   	volume={"87"},
   	year={"2014"},
- 	note= {Cited by: 38}
+ 	note= {Cited by: 39}
 	}, 
 	@inproceedings{horcas2014injecting,
   	title={"Injecting Quality Attributes into Software Architectures with the Common Variability Language"},
   	author={"Horcas Aguilera, Jos{\'e} Miguel and Pinto, M{\'o}nica and Fuentes, Lidia"},
   	booktitle={"Proceedings of the 17th international ACM Sigsoft symposium on Component-based software engineering"},
-  	year={"2014"}
+  	year={"2014"},
+  	note= {Cited by: 12}
 	},
 	@inproceedings{dugerdil2014visualizing,
   	title={"Visualizing software structure understandability"},
   	author={"Dugerdil, Philippe and Niculescu, Mihnea"},
  	booktitle={"23rd Australian Software Engineering Conference"},
- 	year={"2014"}
+ 	year={"2014"},
+ 	note= {Cited by: 8}
 	},
 	@inproceedings{Eftekhari2011EvaluationAC,
   	title={"Evaluation and Classifying Software Architecture Styles Due to Quality Attributes"},
   	author={"N. Eftekhari and M. P. Rad and H. Alinejad-Rokny"},
-  	year={"2011"}
+  	year={"2011"},
+  	note= {Cited by: 7}
 	}, 
 	@inproceedings{P18Vimaladevi,
   	title={"Design level quality analysis using fuzzy UML models and weighted complex networks"},
   	author={"Vimaladevi, M and Zayaraz, G"},
   	booktitle={"2017 International Conference on Communication and Signal Processing (ICCSP)"},
-  	year={"2017"}
+  	year={"2017"},
+  	note= {Cited by: 2}
 	},
 	@incollection{sehestedt2014towards,
   	title={"Towards quantitative metrics for architecture models"},
  	author={"Sehestedt, Stephan and Cheng, Chih-Hong and Bouwers, Eric"},
   	booktitle={"WICSA 2014"},
-  	year={"2014"}
+  	year={"2014"},
+  	note= {Cited by: 13}
 	},
 	@inproceedings{venkitachalam2015metrics,
   	title={"Metrics for verification and validation of architecture in powertrain software development"},
   	author={"Venkitachalam, Hariharan and Richenhagen, Johannes and Schlosser, Axel and Tasky, Thomas"},
   	booktitle={"1st International Workshop on Automotive Software Architecture"},
- 	year={"2015"}
+ 	year={"2015"},
+ 	note= {Cited by: 10}
 	}, 
 	@article{P16Sergey,
   	title={"Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory"},
   	author={"Orlov, Sergey and Vishnyakov, Andrei "},
   	journal={"Procedia Computer Science"},
   	volume={"104"},
- 	year={"2017"}
+ 	year={"2017"},
+ 	note= {Cited by: 2}
  	},
 	@article{orlov2017hierarchical,
   	title={"Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"},
   	author={"Orlov, Sergey and Vishnyakov, Andrei"},
   	journal={"Procedia Engineering"},
   	volume={"178"},
-  	year={"2017"}
+  	year={"2017"},
+  	note= {Cited by: 0}
 	},
  	@article{durisic2013measuring,
   	title={"Measuring the impact of changes to the complexity and coupling properties of automotive software systems"},
   	author={"Durisic, Darko and Nilsson, Martin and Staron, Miroslaw and Hansson, J{\"o}rgen"},
   	journal={"Journal of Systems and Software"},
  	volume={"86"},
-  	year={"2013"}
+  	year={"2013"},
+  	note= {Cited by: 34}
   	},
 	@article{modelsward20,
  	title={"Towards metrics for analyzing system architectures modeled with EAST-ADL"},
   	author={"Etzel, Christoph and Hofhammer, Florian and Bauer, Bernhard"},
-  	year={"2020"}
+  	year={"2020"},
+  	note= {Cited by: 1}
   	},
 	@inproceedings{sedaghatbaf2015software,
   	title={"Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks"},
   	author={"Sedaghatbaf, Ali and Azgomi, Mohammad Abdolahi"},
   	booktitle={"International Conference on Fundamentals of Software Engineering"},
+  	organization={"Springer"},
   	year={"2015"},
-  	organization={"Springer"}
+  	note= {Cited by: 2}
 	},
 	@article{P8HansenK,
   	title={"An empirical study of software architectures’ effect on product quality"},
@@ -123,49 +135,56 @@ QualityModel{
   	volume={"84"},
   	pages={"1233--1243"},
   	year={"2011"},
+  	note= {Cited by: 25}
 	},
 	@inproceedings{de2020towards,
   	title={"Towards a method for monitoring the coupling evolution of microservice-based architectures"},
   	author={"de Freitas Apolin{\'a}rio, Daniel Rodrigo and de Franca, Breno Bernard Nicolau"},
   	booktitle={"Proceedings of the 14th Brazilian Symposium on Software Components, Architectures, and Reuse"},
   	pages={"71--80"},
-  	year={"2020"}
+  	year={"2020"},
+  	note= {Cited by: 1}
 	},
 	@inproceedings{mo2018experiences,
   	title={"Experiences applying automated architecture analysis tool suites"},
   	author={"Mo, Ran and Snipes, Will and Cai, Yuanfang and Ramaswamy, Srini and Kazman, Rick and Naedele, Martin"},
   	booktitle={"ASE"},
-  	year={"2018"}
+  	year={"2018"},
+  	note= {Cited by: 20}
 	}, 
 	@article{P17Mo,
   	title={"Decoupling level: A new metric for architectural maintenance complexity"},
   	author={"R. Mo and Y. Cai and R. Kazman and L. Xiao and Q. Feng Q"},
   	journal={"ICSE 2016"},
   	volume={"14"},
-  	year={"2016"}
+  	year={"2016"},
+  	note= {Cited by: 80}
 	}, 
 	@article{jagroep2017extending,
   	title={"Extending software architecture views with an energy consumption perspective"},
   	author={"Jagroep, Erik and van der Werf, Jan Martijn and Brinkkemper, Sjaak and Blom, Leen and van Vliet, Rob},
   	journal={Computing"},
   	volume={"99"},
-  	year={"2017"}
+  	year={"2017"},
+  	note= {Cited by: 39}
 	},
 	@inproceedings{P10Wan,
   	title={"Analyzing Software Architecture Evolvability Based on Multiple Architectural Attributes Measurements"},
   	author={"Wang, Tong and Li, Bixin"},
   	booktitle={"2019 IEEE 19th International Conference on Software Quality, Reliability and Security (QRS)"},
   	pages={"204--215"},
+  	organization={"IEEE"},
   	year={"2019"},
-  	organization={"IEEE"}
+  	note= {Cited by: 0}
 	},
 	@inproceedings{P5Derbel,
 	  title={"ACME+: An ADL for Quantitative Analysis of Quality Attributes"},
 	  author={"Derbel, Imen and Jilani, Lamia Labed and Mili, Ali"},
 	  booktitle={"International Conference on Evaluation of Novel Approaches to Software Engineering"},
 	  pages={"16--32"},
+	  organization={"Springer"},
 	  year={"2013"},
-	  organization={"Springer"}
+	  note= {Cited by: 0}
 	},
 	@inproceedings{P13Derbel,
 	  title={"Automated quantitative attributes prediction from architectural description language"},
@@ -173,7 +192,8 @@ QualityModel{
 	  booktitle={"2014 9th International Conference on Software Paradigm Trends (ICSOFT-PT)"},
 	  pages={"87--94"},
 	  year={"2014"},
-	  organization={"IEEE"}
+	  organization={"IEEE"},
+	  note= {Cited by: 0}
 	},
 	@inproceedings{P15Imen,
 	  title={"Computing attributes of software architectures a static method and its validation"},
@@ -181,32 +201,37 @@ QualityModel{
 	  booktitle={"2015 International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE)"},
 	  pages={"55--66"},
 	  year={"2015"},
-	  organization={"IEEE"}
+	  organization={"IEEE"},
+	  note= {Cited by: 2}
 	},
 	@article{P12Venkitachalam,
 	  title={"Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems"},
 	  author={"Venkitachalam, Hariharan and Powale, Kalkin Anand and Granrath, Christian and Richenhagen, Johannes"},
 	  journal={"INFORMATIK 2017"},
-	  year={"2017"}
+	  year={"2017"},
+	  note= {Cited by: 5}
 	},
 	@inproceedings{asik2017policy,
 	  title={"Policy enforcement upon software based on microservice architecture"},
 	  author={"Asik, Tugrul and Selcuk, Yunus Emre"},
 	  booktitle={"SERA"},
-	  year={"2017"}
+	  year={"2017"},
+	  note= {Cited by: 24}
 	},
 	@inproceedings{da2014flexibility,
 	  title={"Flexibility in ecosystem architectures"},
 	  author={"da Silva Amorim, Simone and McGregor, John D and de Almeida, Eduardo Santana and von Flach G. Chavez, Christina"},
 	  booktitle={"ECSA Workshops"},
-	  year={"2014"}
+	  year={"2014"},
+	  note= {Cited by: 12}
 	},
 	@article{KADRI2021106713,
 		title={"MS-QuAAF: A generic evaluation framework for monitoring software architecture quality"},
 		journal={"Information and Software Technology"},
 		author={"Salim Kadri and Sofiane Aouag and Djalal Hedjazi"},
 		volume={"140"},
-		year={"2021"}
+		year={"2021"},
+		note= {Cited by: 3}
 	},
 	@article{P4Sedaghatbaf,
 	  	title={"A method for dependability evaluation of software architectures"},
@@ -214,20 +239,23 @@ QualityModel{
 	  	journal={"Computing"},
 	  	volume={"100"},
 	  	year={"2018"},
+	  	note= {Cited by: 5}
 	},
 	@article{P3Moaven,
-  	title={"A fuzzy-AHP-based approach to select software architecture based on quality attributes (FASSA)"},
-	author={"Moaven, Shahrouz and Habibi, Jafar"},
-  	journal={"Knowledge and Inf. Systems"},
-  	volume={"62"},
-  	year={"2020"}
+	  	title={"A fuzzy-AHP-based approach to select software architecture based on quality attributes (FASSA)"},
+		author={"Moaven, Shahrouz and Habibi, Jafar"},
+	  	journal={"Knowledge and Inf. Systems"},
+	  	volume={"62"},
+	  	year={"2020"},
+	  	note= {Cited by: 3}
 	},
 	@article{P9Maria,
-  	title={"A fuzzy-AHP-based approach to select software architecture based on quality attributes (FASSA)"},
-	author={"Moaven, Shahrouz and Habibi, Jafar"},
-  	journal={"Knowledge and Inf. Systems"},
-  	volume={"62"},
-  	year={"2020"}
+  	title={"Analysing and modelling runtime architectural stability for self-adaptive software"},
+  	author={"Maria Salama; Rami Bahsoon"},
+  	journal={"Journal of Systems and Software"},
+  	volume={"133"},
+  	year={"2017"},
+  	note= {Cited by: 14}
 	},
 	@article{orlov2016multiple,
   	title={"Multiple Criteria Decision Making for the Structural Organization of Software Architecture"},
@@ -235,14 +263,16 @@ QualityModel{
   	journal={"Computer Science and Information Technology. Horizon Research Publishing"},
   	volume={"4"},
   	pages={"147--156"},
-  	year={"2016"}
+  	year={"2016"},
+  	note= {Cited by: 1}
 	},
 		 
 	@inproceedings{franco2013reliability,
 	  title={"Reliability analysis of software architecture evolution"},
 	  author={"Franco, Joao M and Barbosa, Raul and Zenha-Rela, M{\'a}rio"},
 	  booktitle={"2013 Sixth Latin-American Symposium on Dependable Computing"},
-	  year={"2013"}
+	  year={"2013"},
+	  note= {Cited by: 11}
 	}	 		 
 }     
  
