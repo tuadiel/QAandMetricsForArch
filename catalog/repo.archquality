@@ -13,7 +13,7 @@ QualityModel{
   	booktitle={"Proceedings of the International Conference on Informatics and Analytics"},
   	pages={"1--4"},
   	year={"2016"},
-  	note= {Cited by: 8}
+  	note= {Cited by: 18}
 	},
 	@inproceedings{tiwari2019metrics,
   	title={"Metrics driven architectural analysis using dependency graphs for C language projects"},
