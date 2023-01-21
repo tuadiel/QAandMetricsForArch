@@ -23,7 +23,7 @@ QualityModel{
   	pages={"117--122"},
  	year={"2019"},
   	organization={"IEEE"},
-  	note= {Cited by: 20}
+  	note= {Cited by: 2}
 	},
 	@article{dayanandan2018software,
   	title={"Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method"},
