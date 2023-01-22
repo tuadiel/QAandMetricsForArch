@@ -25,6 +25,14 @@ QualityModel{
   	organization={"IEEE"},
   	note= {Cited by: 2}
 	},
+	@inproceedings{horcas2014injecting,
+  	title={"Injecting quality attributes into software architectures with the common variability language"},
+  	author={"Horcas, Jose-Miguel and Pinto, M{\'o}nica and Fuentes, Lidia"},
+  	booktitle={"Proceedings of the 17th international ACM Sigsoft symposium on Component-based software engineering"},
+  	pages={"35--44"},
+ 	year={"2014"},
+  	note= {Cited by: 12}
+	},
 	@article{dayanandan2018software,
   	title={"Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method"},
   	author={"Dayanandan, Udaya and Kalimuthu, Vivekanandan"},
@@ -327,6 +335,7 @@ QualityModel{
 		QualityAttribute Testability_A[Eftekhari2011EvaluationAC,venkitachalam2015metrics,P2Dayanandan,P10Wan,P7Dayanandan],
 		QualityAttribute Understandability_A[P10Wan,dugerdil2014visualizing],
 		QualityAttribute Usability_A[Eftekhari2011EvaluationAC,P3Moaven],
+		QualityAttribute Variability_A[horcas2014injecting],
 		
 		Metric Abstraction_M[P2Dayanandan,P7Dayanandan,tiwari2019metrics,dayanandan2018software,P8HansenK],
 		Metric Autonomy_Ratio_M[dugerdil2014visualizing],
@@ -381,6 +390,7 @@ QualityModel{
 		Metric Unused_Resource_and_Unreachable_Endpoint_Count_M[asik2017policy],
 		Metric Utilization_M[jagroep2017extending],
 		Metric View_Consistency_M[sehestedt2014towards],
+		Metric VariabilityOfConcern_M[horcas2014injecting],
 		
 		Scalability_A -> Scalability_M[P16Sergey,orlov2017hierarchical],
 		Portability_A -> Dependency_M[venkitachalam2015metrics,tiwari2019metrics, tiwari2019metrics],
@@ -485,6 +495,7 @@ QualityModel{
 		_Functional_Suitability_Ch -> Functionality_A[P3Moaven],
 		_Functional_Suitability_Ch -> Suitability_A[P16Sergey,orlov2017hierarchical],
 		_Functional_Suitability_Ch -> Correctness_A[sehestedt2014towards],
+		_Functional_Suitability_Ch -> Variability_A[horcas2014injecting],
 		
 		Sustainability_A -> Energy_Consumption_M[jagroep2017extending],
 		Sustainability_A -> Throughput_M[jagroep2017extending],
