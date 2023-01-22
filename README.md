@@ -55,7 +55,7 @@
 <p align="justify">Following the process, a contributor who wants to define new quality attributes and/or metrics or new relationships discovered in his/her studies can create a branch of the repository, even if the only file needed is the .archquality definition (up-to-date in the catalog folder). Contributors can then add or edit existing definitions by exploiting the textual syntax. After that, a contributor can emit a pull request that will be evaluated by the repository maintainer and in case the provided changes in definitions are legit and supported by the correct linked research contributions, a merge of the .archquality model will be executed.</p> 
 
 
-#### Contribution process of the proposed framework.
+### Contribution process of the proposed framework.
 <img src="https://github.com/xxyyzzaa/QAandMetricsForArch/blob/main/assets/editing.png" width="700" height="450"> 
 
 
