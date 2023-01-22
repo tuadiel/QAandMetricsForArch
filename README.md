@@ -10,7 +10,7 @@
 
 ### Pre-requisites:
 
-* You should have an Eclipse IDE installed on your machine (in case you don’t have it download and install it from [Eclipse](https://www.eclipse.org/downloads/)).
+* You should have the latest version of Eclipse IDE installed on your machine (in case you don’t have it download and install it from [Eclipse](https://www.eclipse.org/downloads/)).
 
 * <p align="justify">Install and Configure a web-server (e.g., MAMP). This web server allows you to get web views of generated quality characteristics, attributes, and metrics which are browsable in the online version.</p>
 
